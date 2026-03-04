@@ -94,3 +94,12 @@
 - **Communicate Effectively:** Organize information in a logical way, bring relevant context, and make complex topics easily digestible.
 - **Articulate trade-offs:** Communicate the benefits of your design choices, bring up multiple solutions to assess their pros and cons, and articulate conflicting approaches.
 - **Engage with interviewer:** Listen carefully, react to feedback and questions, deep dive if requested, and be ready to accept your mistakes and fix them.
+
+## Disclaimer & Attribution
+
+This repository is a Flutter and Dart adaptation of the original **Mobile System Design Knowledge Mind Map** created by **Andrey Tech**.
+
+- **Original Creator:** [Andrey Tech on YouTube](https://www.youtube.com/@andrey_tech)
+- **Original Framework:** Mobile System Design Knowledge Mind Map v.1.1
+
+I do not claim ownership of the underlying structural framework, categories, or non-technical system design concepts. This repository serves as a derivative study guide, translating his excellent native mobile concepts into the Flutter ecosystem. All credit for the original design and architecture methodology goes to Andrey Tech. No open-source license is applied to this repository to respect the original author's unstated copyright.
